@@ -28,11 +28,8 @@ Clone this repository to your local machine using the following command:
 - [Features](#features)
 - [ProjectComponents](#project-components)
 - [Installation](#installation)
-- [Troubleshooting](#troubleshooting)
-- [Known issues](#known-issues)
 - [Contributing](#contributing)
-- [License](https://github.com/Samarth277/Python_Bot_Project/blob/main/LICENSE)
-- [Acknowledgments](#acknowledgments)
+- [License](https://github.com/Stackdevsamarth/Digiface/blob/main/LICENSE)
 
 ## About
 
@@ -94,13 +91,13 @@ Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-### Run Locally
+
 
 
 
 ### Contact
 
-If you want to contact with me you can reach me at [Linkedin](https://www.linkedin.com/in/stackdevsamarth).
+If you want to contact with me you can reach me at [Mail](mailto:stackdevsamarth@programmer.net).
 
 ## Contributing
 
@@ -115,4 +112,4 @@ If you'd like to contribute to this project, please follow these steps:
 > - Submit a pull request describing your changes.
 > - License
 
-**This project is licensed under the [MIT License](https://github.com/Samarth277/Python_Bot_Project/blob/main/LICENSE).**
+**This project is licensed under the [MIT License](https://github.com/stackdevsamarth/Digiface/blob/main/LICENSE).**
