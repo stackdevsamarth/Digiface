@@ -1,6 +1,23 @@
-# Hey, I'm Samarth (@stackdevsamarth)
+# Hey, I'm Samarth [@stackdevsamarth](https://stackdevsamarth.github.io/)
 
 <img src="https://media.licdn.com/dms/image/D4D16AQFi42LBB158Kw/profile-displaybackgroundimage-shrink_350_1400/0/1683961854862?e=1689811200&v=beta&t=1HHtUSpscis-jgnI2tzuQ3BnXQtJctRiUBnRBU3Ndnw" width="100%" alt="stackdevsamarth SVG at python botproject" >
+
+Clone this repository to your local machine using the following command:
+  
+  ![GitHub repo size](https://img.shields.io/github/repo-size/stackdevsamarth/Digiface)
+  ![GitHub stars](https://img.shields.io/github/stars/stackdevsamarth/Digiface?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/stackdevsamarth/Digiface?style=social)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/stackdevsamarth?style=social)](https://twitter.com/intent/follow?screen_name=stackdevsamarth)
+
+
+  <br />
+  <br />
+
+  <h2 align="center">Digiface - Digital Agency Website</h2>
+
+  Digiface is a fully responsive digital agency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+
+  <a href="https://stackdevsamarth.github.io/Digiface/"><strong>➥ Live Demo</strong></a>
 
 
 [Connect With Me](https://www.linkedin.com/in/stackdevsamarth)
@@ -41,9 +58,7 @@ Digiface Frontend Website is a project developed to showcase the digital marketi
 8. Contact Us: The contact us section provides visitors with multiple ways to get in touch with Digiface, including a contact form, email address, phone number, and physical address. This encourages engagement and allows potential clients to reach out for further information or inquiries.
 
 ## Project Components
--------------
-
-This project uses the [Flask](http://flask.pocoo.org/) framework to serve data through a simple web site platform locally. 
+------------ 
 
 ```
 Digiface
@@ -59,39 +74,6 @@ Digiface
 ```
 ## Installation
 
-Clone this repository to your local machine using the following command:
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/Digiface)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/pixology?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/pixology?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-
-
-  <br />
-  <br />
-
-  <h2 align="center">Digiface - Digital Agency Website</h2>
-
-  Digiface is a fully responsive digital agency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
-
-  <a href="https://codewithsadee.github.io/Digiface/"><strong>➥ Live Demo</strong></a>
-
-</div>
-
-<br />
-
-### Demo Screeshots
-
-![Digiface Desktop Demo](./readme-images/desktop.png "Desktop Demo")
-
-### Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
-### Run Locally
-
 To run **Digiface** locally, run this command on your git bash:
 
 Linux and macOS:
@@ -106,9 +88,19 @@ Windows:
 git clone https://github.com/codewithsadee/Digiface.git
 ```
 
+### Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+
+### Run Locally
+
+
+
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.linkedin.com/codewithsadee).
+If you want to contact with me you can reach me at [Linkedin](https://www.linkedin.com/in/stackdevsamarth).
 
 ## Contributing
 
